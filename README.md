@@ -1,4 +1,9 @@
-# system-design
-Concepts for learning system design
+# System Design Revision Notes
 
-This repo contains the links to the useful resources to understand the system design concepts
+This repo contains my personal revision notes for System Design interviews.
+
+## Primary Resource
+- https://github.com/donnemartin/system-design-primer
+
+## Other topics
+Revise the topics in this repo for deep understanding
